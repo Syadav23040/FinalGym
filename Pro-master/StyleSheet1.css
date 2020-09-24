@@ -1,0 +1,41 @@
+﻿
+body {
+    background-color: lightcyan;
+    color: darkblue;
+}
+
+.topP {
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    right: 2%;
+    width: 96%;
+    height: 20%;
+    background-color: lightgoldenrodyellow;
+}
+
+.leftP {
+    position: absolute;
+    top: 24%;
+    left: 2%;
+    width: 20%;
+    height: 84%;
+    background-color: lightgoldenrodyellow;
+}
+
+.centerP {
+    position: absolute;
+    top: 24%;
+    left: 24%;
+    width: 58%;
+    height: 84%;
+    background-color: white;
+}
+
+
+h1, h2 {
+    text-align: center;
+}
+h6{
+    text-size-adjust:inherit;
+}
